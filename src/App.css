@@ -1,3 +1,26 @@
 .App {
+  margin-left: 15%;
+  margin-top: 5%;
+  margin-right: 15%;
+}
+
+.heading {
   text-align: center;
+}
+
+.formClass {
+  margin-top: 40px;
+}
+
+.fieldClass {
+  padding-left: 10px;
+  padding-right: 10px;
+}
+
+.textBoxStyle {
+  margin-left: 10px;
+}
+
+.btnClass {
+  margin-right: 20px;
 }
